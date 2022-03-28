@@ -1,0 +1,158 @@
+<?xml version="1.0" encoding="utf-8"?>
+<yml_catalog date="2019-03-21 09:00">
+<shop>
+<name>vokruglamp.ru</name>
+<company>vokruglamp.ru</company>
+<url>http://vokruglamp.ru</url>
+<platform>Bitrix</platform>
+<version>16.0.13</version>
+<email>info@vokruglamp.ru</email>
+<currencies>
+<currency id="RUB" rate="1.0000"/>
+</currencies>
+<categories>
+<category id="187">Люстры</category>
+<category id="189" parentId="187">Потолочные</category>
+<category id="188" parentId="187">Подвесные</category>
+<category id="848" parentId="187">Каскадные</category>
+<category id="248" parentId="187">Люстры-вентиляторы</category>
+<category id="1393" parentId="187">Хрустальные люстры</category>
+<category id="1321" parentId="187">Большие люстры</category>
+<category id="2238" parentId="187">Люстры на штанге</category>
+<category id="1319" parentId="187">Лифты для люстр</category>
+<category id="1324" parentId="187">Управление светом</category>
+<category id="1331" parentId="187">Плафоны и абажуры</category>
+<category id="194">Светильники</category>
+<category id="195" parentId="194">Подвесные</category>
+<category id="456" parentId="194">Встраиваемые</category>
+<category id="196" parentId="194">Потолочные</category>
+<category id="1552" parentId="194">Накладные светильники</category>
+<category id="197" parentId="194">Настенные</category>
+<category id="850" parentId="194">Трековые и шинные</category>
+<category id="1598" parentId="194">Настенно-потолочные</category>
+<category id="852" parentId="194">Мебельные</category>
+<category id="1419" parentId="194">Для растений</category>
+<category id="1327" parentId="194">Гипсовые светильники</category>
+<category id="1322" parentId="194">Лофт светильники</category>
+<category id="1543" parentId="194">Точечные светильники</category>
+<category id="704">Бра и подсветки</category>
+<category id="718" parentId="704">С 1 плафоном</category>
+<category id="717" parentId="704">С 2 плафонами</category>
+<category id="719" parentId="704">С 3 плафонами</category>
+<category id="2225" parentId="704">Гибкие бра</category>
+<category id="706" parentId="704">Подсветка для зеркал</category>
+<category id="707" parentId="704">Подсветка для картин</category>
+<category id="201">Торшеры</category>
+<category id="202" parentId="201">С 1 плафоном</category>
+<category id="203" parentId="201">С 2 и более плафонами</category>
+<category id="2196" parentId="201">Со столиком</category>
+<category id="2218" parentId="201">На треноге</category>
+<category id="2217" parentId="201">Для чтения</category>
+<category id="2219" parentId="201">Изогнутые</category>
+<category id="191">Настольные лампы</category>
+<category id="192" parentId="191">Декоративные</category>
+<category id="205" parentId="191">Офисные</category>
+<category id="842" parentId="191">Детские</category>
+<category id="854" parentId="191">На прищепке</category>
+<category id="833" parentId="191">На струбцине</category>
+<category id="701">Споты</category>
+<category id="709" parentId="701">С 1 плафоном</category>
+<category id="710" parentId="701">С 2 плафонами</category>
+<category id="708" parentId="701">С 3 и более плафонами</category>
+<category id="2330" parentId="701">Встраиваемые споты</category>
+<category id="2348" parentId="701">Накладные споты</category>
+<category id="290">Уличное освещение</category>
+<category id="470" parentId="290">Уличные</category>
+<category id="291" parentId="290">Прожекторы</category>
+<category id="472" parentId="290">Ландшафтные</category>
+<category id="473" parentId="290">Архитектурные</category>
+<category id="471" parentId="290">Парковые</category>
+<category id="2200" parentId="290">Уличные настенные</category>
+<category id="474" parentId="290">На солнечных батареях</category>
+<category id="916" parentId="290">Фонарики</category>
+<category id="213">Лампочки</category>
+<category id="214" parentId="213">Светодиодные</category>
+<category id="227" parentId="213">Накаливания</category>
+<category id="229" parentId="213">Энергосберегающие</category>
+<category id="2191" parentId="213">Филаментные</category>
+<category id="1279" parentId="213">Ретро-лампы</category>
+<category id="953" parentId="213">Технические</category>
+<category id="247" parentId="213">Галогенные</category>
+<category id="329" parentId="213">Диммируемые</category>
+<category id="1244" parentId="213">Светодиодные ленты</category>
+<category id="1246" parentId="213">Блоки питания</category>
+<category id="1384" parentId="213">Профиль для ленты</category>
+<category id="1405" parentId="213">Патроны</category>
+<category id="262">Предметы интерьера</category>
+<category id="816" parentId="262">Вазы</category>
+<category id="2321" parentId="262">Арт-объекты</category>
+<category id="1525" parentId="262">Картины на холстах</category>
+<category id="1524" parentId="262">Модульные картины</category>
+<category id="238">Электротовары</category>
+<category id="489" parentId="238">Выключатели</category>
+<category id="490" parentId="238">Диммеры</category>
+<category id="466" parentId="238">Звонки</category>
+<category id="491" parentId="238">Рамки</category>
+<category id="1333" parentId="238">Стабилизаторы</category>
+<category id="341" parentId="238">Розетки</category>
+<category id="239" parentId="238">Шнуры, удлинители</category>
+<category id="465" parentId="238">Датчики движения</category>
+<category id="208">Лайтбоксы</category>
+<category id="210" parentId="208">Панорамные</category>
+<category id="209" parentId="208">Квадратные</category>
+<category id="1284" parentId="208">Часы</category>
+<category id="272">Новогодние товары</category>
+<category id="279" parentId="272">Светодиодные деревья</category>
+<category id="278" parentId="272">Интерьерные украшения</category>
+<category id="1148" parentId="272">Акриловые фигуры</category>
+<category id="273" parentId="272">Гирлянды</category>
+<category id="1147" parentId="272">Новогодние  подвесы</category>
+<category id="342">Прочее</category>
+<category id="1000">РАСПРОДАЖА</category>
+</categories>
+<offers>
+<offer id="potolochnaya_lyustra_lightstar_beta_785067" type="vendor.model" available="false">
+<picture>http://vokruglamp.ru/export/img/a75/0753e4125d258eda065e5689880edfe7.jpeg</picture>
+<name>Потолочная люстра Lightstar Beta 785067</name>
+<vendor>Lightstar</vendor>
+<url>http://vokruglamp.ru/catalog/product/potolochnaya_lyustra_lightstar_beta_785067/</url>
+<currencyId>RUB</currencyId>
+<categoryId>1393</categoryId>
+<image>http://vokruglamp.ru/export/img/a75/0753e4125d258eda065e5689880edfe7.jpeg</image>
+<image>http://vokruglamp.ru/export/img/b56/87ae6405c6049ae391576f589aeca98a.jpeg</image>
+<image>http://vokruglamp.ru/export/img/505/97d3a67c23cd2b970e13c6ae5f052f01.jpeg</image>
+<image>http://vokruglamp.ru/export/img/26e/c98edd892938f0320a5f03994af59f69.jpeg</image>
+<param name="Артикул">785067</param>
+<param name="Бренд">Lussole</param>
+<param name="Страна">Италия</param>
+<param name="Коллекция">Beta</param>
+<param name="Высота, мм">380</param>
+<param name="Диаметр, мм">940</param>
+<param name="Количество ламп">6</param>
+<param name="Мощность лампы, W">40</param>
+<param name="Общая мощность, W">240</param>
+<param name="Тип цоколя">E27</param>
+<param name="Тип лампочки (основной)">Накаливания</param>
+<param name="Напряжение, V">220</param>
+<param name="Степень защиты, IP">20</param>
+<param name="Виды материалов">Стеклянные</param>
+<param name="Материал арматуры">Металл</param>
+<param name="Материал плафонов">Стекло</param>
+<param name="Цвет">Черный</param>
+<param name="Цвет арматуры">Черный</param>
+<param name="Цвет плафонов">Прозрачный</param>
+<param name="Место установки">На потолок</param>
+<param name="Стиль">Хай-тек</param>
+<param name="Форма плафона">Круглый</param>
+<param name="Интерьер">Для спальни</param>
+<param name="Гарантия">18 месяцев</param>
+<param name="Новинка">Да</param>
+<param name="Остаток поставщика">0</param>
+<param name="Акция">false</param>
+<param name="Автоматическая сортировка">571950</param>
+<param name="Кратность отгрузки, шт.">123</param>
+<price>18698.00</price>
+</offer>
+</offers>
+</shop>
+</yml_catalog>

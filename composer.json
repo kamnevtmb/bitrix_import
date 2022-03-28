@@ -1,0 +1,13 @@
+{
+    "require": {
+        "symfony/var-dumper": "3.2.x-dev"
+    },
+    "autoload": {
+        "psr-4": {
+            "Import\\Yml\\": "./"
+        },
+        "files" : [
+            "Resources/functions/helpers.php"
+        ]
+    }
+}
